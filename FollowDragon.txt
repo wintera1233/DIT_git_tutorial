@@ -1,2 +1,2 @@
 goose -> elephant -> turtle
-- a turtle ate the elephant
+- a turtle ate the elephant, and the goose was furious.
