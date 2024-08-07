@@ -1,2 +1,2 @@
-goose -> elephant -> turtle
-- a turtle ate the elephant, and the goose was furious.
+goose -> elephant -> turtle -> eagle
+- a turtle ate the elephant, and the goose was furious, so it called an eagle to eat the turtle.
