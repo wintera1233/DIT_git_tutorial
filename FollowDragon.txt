@@ -1,2 +1,2 @@
-goose -> elephant -> turtle -> eagle -> earthworm
-- a turtle ate the elephant, and the goose was furious, so it called an eagle to eat the turtle. 
+goose -> elephant -> turtle -> eagle -> Euro
+- a turtle ate the elephant, and the goose was furious, so it called an eagle to eat the turtle. And the euro try to protect the turtle,
