@@ -1,1 +1,2 @@
-spring -> goose ->
+goose -> elephant -> turtle
+- a turtle ate the elephant, and the goose was furious.
